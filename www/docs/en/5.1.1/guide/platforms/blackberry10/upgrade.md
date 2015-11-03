@@ -37,7 +37,7 @@ For CLI projects:
 
 1. Update the `cordova` CLI version. See [The Command-Line Interface](../../cli/index.html).
 
-2. Run `cordova platform update blackberry` in your existing projects.
+2. Run `cordova platform update blackberry10` in your existing projects.
 
 ## Upgrading to 3.2.0 from 3.1.0
 
@@ -45,7 +45,7 @@ For projects that were created with the cordova CLI:
 
 1. Update the `cordova` CLI version. See [The Command-Line Interface](../../cli/index.html).
 
-2. Run `cordova platform update blackberry`
+2. Run `cordova platform update blackberry10`
         
 For projects not created with the cordova CLI, run:
 
